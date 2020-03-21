@@ -1,0 +1,61 @@
+.container{
+    background-color: rgb(238,238,238);
+    height: 2000px;
+    width: 99%;
+    border-radius: 10px
+  }
+  
+  .container .header{
+    padding-top: 10px;
+    text-align: center;
+    margin: 0px auto;
+  }
+  
+  .container .header p{
+    font-size: 15px;
+    font-weight: normal;
+  }
+  
+  .container .middle{
+    background-color: white;
+    width: 98%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: none;
+  }
+  
+  .container .middle img{
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .container .middle p{
+    font-size: 12px;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  
+  .container .info{
+    margin: 0 auto;
+    width: 55%;
+  }
+  
+  .container .info h3{
+    text-align: center;
+  }
+  
+  .container .info ul{
+    text-align: justify; 
+  }
+  
+  .container .info li{
+    margin: 20px 0px;
+  }
+  
+  .container .exit{
+    text-align: center;
+    margin: 40px auto;
+  }
